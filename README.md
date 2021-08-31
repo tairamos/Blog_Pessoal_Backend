@@ -1,1 +1,4 @@
-# Blog_Pessoal_Backend
+# Backend do Blog Pessoal
+composto por:
+- Java
+- Spring Boot
